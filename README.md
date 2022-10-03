@@ -19,7 +19,6 @@
 
 - ⚡ Fun fact **I love horror movies even when they don't let me sleep.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
