@@ -1,4 +1,3 @@
-![MasterHead](https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80) 
 <h1 align="center">Hi 👋, I'm Ximena Toledo</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
