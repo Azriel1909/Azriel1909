@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Marketing, UI/UX Design, Frontend Development, MERN stack, Cybersecurity, Cloud Computing, Data Bases, AI Fundamentals, JAVA Development, Networking and Linux OS.**
  
-- 📖 My freeCodeCamp profile: [](https://www.freecodecamp.org/XimenaMael99)
+- 📖 My freeCodeCamp profile: [freeCodeCamp](https://www.freecodecamp.org/XimenaMael99)
 
 - 📫 Contact me by Email: **launchx02240@innovaccion.mx**
 
