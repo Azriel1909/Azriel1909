@@ -24,6 +24,8 @@
 
 - 🔵 Contact me on LinkedIn: [Ximena Toledo](https://www.linkedin.com/in/ximena-toledo-dev99/)
 
+- ☁ Visit my Oracle Profile: [Ximena Toledo](https://app.aluracursos.com/emprega-one/profile/xtoledori)
+
 - ⚡ Fun fact **I love horror movies even when they do not let me sleep.**
 
 <h3 align="left">Languages and Tools:</h3>
