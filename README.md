@@ -12,9 +12,7 @@
 
 - 🎮 You can play hangman for a while in [PinkHang](https://azriel1909.github.io/RETO-PINKHANG/)
 
-- 👨‍💻 All my projects are available in my [Portfolio](https://azriel1909.github.io/PORTFOLIO/)
-
-- 🎉 Also visit my first Portfolio in [My first portfolio](https://azriel1909.github.io/PINK-PORTFOLIO/)
+- 👨‍💻 All my projects are available in my [Portfolio](https://azriel1909.github.io/PINK-PORTFOLIO/)
 
 - 📝 I regularly post on [LinkedIn](https://www.linkedin.com/in/ximena-toledo-dev99/)
 
