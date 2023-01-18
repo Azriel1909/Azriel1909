@@ -2,7 +2,7 @@
   <img src="https://azriel1909.github.io/PORTFOLIO/img/xime2.png" width="200">
 </p>
 <h1 align="center">Hi 👋, I'm Ximena Toledo</h1>
-<h3 align="center">I am Designer + Developer</h3>
+<h3 align="center">Designer + Developer</h3>
 
 - 🔭 I’m currently working on [Quantum Key Distribution](https://www.linkedin.com/posts/ximena-toledo-dev99_computing-quantum-labs-activity-6955647939453104128-jwX1?utm_source=share&utm_medium=member_desktop)
 
