@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="200">
+  <img src="https://azriel1909.github.io/PINK-PORTFOLIO/img/pinkhat.png" width="200">
 </p>
 <h1 align="center">Hi 👋, I'm Ximena Toledo</h1>
 <h3 align="center">Designer + Developer</h3>
