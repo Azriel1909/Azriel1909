@@ -13,7 +13,7 @@
 - Fun fact: One of my hidden talents is drawing very fast, which allows me to capture ideas very quickly.
 
 ## 🌐 Socials
-- My freeCodeCamp profile: [freeCodeCamp](https://www.freecodecamp.org/XimenaMael99)
+- My freeCodeCamp profile: [@XimenaMael99](https://www.freecodecamp.org/XimenaMael99)
 - Contact me on LinkedIn: [Ximena Toledo](https://www.linkedin.com/in/ximena-toledo-dev99/)
 - Visit my Oracle Profile: [Ximena Toledo](https://app.aluracursos.com/emprega-one/profile/xtoledori)
 
