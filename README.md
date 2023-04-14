@@ -9,7 +9,7 @@
 
 ## 🌻 About Me
 - I'm currently working on Scientific Research and Web Development.
-- I'm currently learning Quantum Computing and Quantum Cryptography. 
+- I'm currently learning Quantum Computing and Quantum Algorithms. 
 - I’m looking to collaborate on different projects as Frontend Developer and UI/UX Designer.
 - All my projects are available in my GitHub Profile and in my [Portfolio](https://azriel1909.github.io/PINK-PORTFOLIO/).
 - Ask me about Digital Marketing, UI/UX Design, Frontend Development, MERN stack, Cybersecurity, Cloud Computing, Data Base, AI Fundamentals, JAVA Development, Networking and Linux OS.
