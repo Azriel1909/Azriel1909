@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://azriel1909.github.io/PINK-PORTFOLIO/img/pinkhat.png" width="200">
 </p>
-<h1 align="center">Hi 👋, I'm Ximena Toledo </h1>
-<h3 align="center">Designer + Developer</h3>
+<h1 align="center">Hi 👋, I'm Ximena Toledo</h1>
+<h3 align="center">Computer Engineer + Designer + Developer</h3>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -32,13 +32,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Azriel1909&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Ximena Toledo</h1>
-<h3 align="center">Computer Engineer + Designer + Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Azriel1909&label=Profile%20views&color=0e75b6&style=flat" alt="Azriel1909" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Azriel1909&theme=darkhub" alt="Azriel1909" /></a> </p>
 
 
 
