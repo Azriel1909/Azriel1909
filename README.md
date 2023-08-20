@@ -5,7 +5,7 @@
 <h3 align="center">Computer Engineer + Designer + Developer</h3>
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🌻 About Me
 - I'm currently working on Scientific Research and Web Development.
