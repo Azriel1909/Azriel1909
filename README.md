@@ -27,30 +27,12 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Azriel1909&theme=omni&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Azriel1909&theme=omni&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Azriel1909&theme=omni&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azriel1909&hide_progress=true&theme=omni" alt=Azriel1909 />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Azriel1909&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-
-
-<h3 align="left">Support:</h3>
+<h3 align="left">Support </h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/pinkhat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/pinkhat" /></a></p><br><br>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azriel1909&hide_progress=true&theme=omni" alt=Azriel1909 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Azriel1909&show_icons=true&locale=en&theme=omni" alt="Azriel1909" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Azriel1909&theme=omni" alt="Azriel1909" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Azriel1909">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azriel1909&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azriel1909&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azriel1909&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Azriel1909&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azriel1909&theme=omni" height="180em" />
-</div>
 
