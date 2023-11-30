@@ -2,18 +2,21 @@
   <img src="https://azriel1909.github.io/PINK-PORTFOLIO/img/MyLogo.png" width="200">
 </p>
 <h1 align="center">Hi 👋, I'm Ximena Toledo</h1>
-<h3 align="center">Computer Engineer + Designer + Developer</h3>
+<h3 align="center">Computer Engineer & UX Designer</h3>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🌻 About Me
-- I'm currently working on Scientific Research and Web Development.
-- I'm currently learning Quantum Computing and Quantum Algorithms. 
-- I’m looking to collaborate on different projects as Frontend Developer and UI/UX Designer.
-- All my projects are available in my GitHub Profile and in my [Portfolio](https://azriel1909.github.io/PINK-PORTFOLIO/).
-- Ask me about Digital Marketing, UI/UX Design, Frontend Development, MERN stack, Cybersecurity, Cloud Computing, Data Base, AI Fundamentals, JAVA Development, Networking and Linux OS.
-- Fun fact: One of my hidden talents is drawing very fast, which allows me to capture ideas very quickly.
+👩🏽‍💻 Hello, fellow coders and tech enthusiasts! I'm Ximena Toledo, the proud owner of PinkHat and a seasoned computer engineer passionate about pushing the boundaries of technology.
+
+🚀 Throughout my academic journey, I've immersed myself in various facets of the tech industry, starting from the ground up as an Installation and Repair Technician for computer equipment. This journey has taken me through the intricacies of data network design and solution-oriented IT approaches.
+
+🔍 My relentless pursuit of knowledge has driven me to acquire a robust portfolio of certifications spanning a spectrum of domains. I hold expertise in Web Development, Mobile Development, UX Design, Digital Marketing, Cybersecurity, Networks, IT Support, Finance, Cloud Computing, Databases, Data Science, and even delving into the intriguing realm of Quantum Computing.
+
+💡 Committed to continuous learning, I am dedicated to honing and applying these skills to tackle compelling and challenging projects. My aim is to contribute meaningfully to the ever-evolving landscape of technology through innovation and problem-solving.
+
+🌐 Let's collaborate, learn, and innovate together in this exciting world of technology! Connect with me and let's explore the endless possibilities.
 
 ## 🌐 Socials
 - My freeCodeCamp profile: [@PinkHat](https://www.freecodecamp.org/PinkHat)
